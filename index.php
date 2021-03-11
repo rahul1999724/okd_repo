@@ -1,3 +1,5 @@
-<? php
-  print "welcome to OCP first ";
+<?php
+
+print "welcome to OCP first ";
+
 ?>
